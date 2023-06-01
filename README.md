@@ -6,9 +6,8 @@ For recommendation system we can use Three types of Model .
 
 # Recommender System can be define as a system which is intelligent enough to understand the User Perference and suggest the product
 
-user Input ----> Recommender system --------> product --------> profit generated
-                                    (suggestion)      (increase 
-				                      the profit)
+user Input ----> Recommender system ----(suggestion)---> product ----(increase profit)---> profit generated
+                                          
 # Recommendation system Types :
 1. Popularity based
 2. Content based
